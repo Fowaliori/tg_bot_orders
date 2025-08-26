@@ -11,7 +11,7 @@
 go install github.com/go-telegram-bot-api/telegram-bot-api/v5
 go install github.com/joho/godotenv
 ```
-В .env указать token телеграм бота(не показывать никому!)/n
+В .env указать token телеграм бота(не показывать никому!)
 Запуск бота
 ```bash
 go run main.go
